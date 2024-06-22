@@ -1,0 +1,88 @@
+1
+Title: Testing Generative AI for Circuit Board Design (jitx.com)
+Link: https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design
+Number of votes: 274
+2
+Title: My Windows Computer Just Doesn't Feel Like Mine Anymore (howtogeek.com)
+Link: https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/
+Number of votes: 254
+3
+Title: Aster shootdown over Sydney in 1955 (navyhistory.au)
+Link: https://navyhistory.au/aster-shootdown-over-sydney-in-1955/
+Number of votes: 170
+4
+Title: CRIU, a project to implement checkpoint/restore functionality for Linux (criu.org)
+Link: https://criu.org/Main_Page
+Number of votes: 143
+5
+Title: Internet Archive forced to remove 500k books after publishers' court win (arstechnica.com)
+Link: https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/
+Number of votes: 348
+6
+Title: From Infocom to 80 Days: An oral history of text games and interactive fiction (arstechnica.com)
+Link: https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/
+Number of votes: 167
+7
+Title: Software design gets worse before it gets better (tidyfirst.substack.com)
+Link: https://tidyfirst.substack.com/p/the-trough-of-despair
+Number of votes: 155
+8
+Title: How does a computer/calculator compute logarithms? (zachartrand.github.io)
+Link: https://zachartrand.github.io/SoME-3-Living/
+Number of votes: 120
+9
+Title: Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers (github.com/eliah-lakhin)
+Link: https://github.com/Eliah-Lakhin/lady-deirdre
+Number of votes: 103
+10
+Title: Self-driving Waymos secure final clearance for expansion beyond S.F (sfchronicle.com)
+Link: https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php
+Number of votes: 193
+11
+Title: Show HN: Eidos – Offline alternative to Notion (github.com/mayneyao)
+Link: https://github.com/mayneyao/eidos
+Number of votes: 122
+12
+Title: Testing Generative AI for Circuit Board Design (jitx.com)
+Link: https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design
+Number of votes: 274
+13
+Title: My Windows Computer Just Doesn't Feel Like Mine Anymore (howtogeek.com)
+Link: https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/
+Number of votes: 254
+14
+Title: Aster shootdown over Sydney in 1955 (navyhistory.au)
+Link: https://navyhistory.au/aster-shootdown-over-sydney-in-1955/
+Number of votes: 170
+15
+Title: CRIU, a project to implement checkpoint/restore functionality for Linux (criu.org)
+Link: https://criu.org/Main_Page
+Number of votes: 143
+16
+Title: Internet Archive forced to remove 500k books after publishers' court win (arstechnica.com)
+Link: https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/
+Number of votes: 348
+17
+Title: From Infocom to 80 Days: An oral history of text games and interactive fiction (arstechnica.com)
+Link: https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/
+Number of votes: 167
+18
+Title: Software design gets worse before it gets better (tidyfirst.substack.com)
+Link: https://tidyfirst.substack.com/p/the-trough-of-despair
+Number of votes: 155
+19
+Title: How does a computer/calculator compute logarithms? (zachartrand.github.io)
+Link: https://zachartrand.github.io/SoME-3-Living/
+Number of votes: 120
+20
+Title: Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers (github.com/eliah-lakhin)
+Link: https://github.com/Eliah-Lakhin/lady-deirdre
+Number of votes: 103
+21
+Title: Self-driving Waymos secure final clearance for expansion beyond S.F (sfchronicle.com)
+Link: https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php
+Number of votes: 193
+22
+Title: Show HN: Eidos – Offline alternative to Notion (github.com/mayneyao)
+Link: https://github.com/mayneyao/eidos
+Number of votes: 122
